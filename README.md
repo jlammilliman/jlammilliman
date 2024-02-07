@@ -1,7 +1,7 @@
-### Howdy! I'm Justin Milliman 👋
+### Howdy!
 
-- 🔭 I’m currently going to school at Michigan Technological University!
-- 🌱 I’m currently learning GO and javascript
-- 💬 Ask me about the last disaster I managed to cook up in the kitchen
+- 🔭 I graduated with my BS in Computer Science at Michigan Technological University
+- 🌱 Full stack developer, I mainly work with Golang, Vuejs, and MS SQL server
+- 💬 Ask me about the last masterpiece I managed to cook up in the kitchen
 - 📫 How to reach me: email -> jlammilliman@gmail.com
 - 😄 Pronouns: He/Him
